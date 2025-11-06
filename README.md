@@ -17,7 +17,7 @@ I’m a Backend .NET Developer focused on building **clean, scalable, and effici
 I enjoy turning real-world problems into **working software solutions**, and I always aim to improve my skills and deepen my understanding of backend system design.
 
 - 💻 **Currently working on:** Building RESTful APIs with .NET  
-- 📚 **Currently learning:** Clean Architecture & Domain-Driven Design  
+- 📚 **Currently learning:** Clean Architecture & CQRS (Command Query Responsibility Segregation)  
 - 🤝 **Open to:** Backend developer roles & collaborations  
 - 📫 **Reach me at:** `meshmuhammadasaad@gmail.com`
 
@@ -41,14 +41,12 @@ I enjoy turning real-world problems into **working software solutions**, and I a
   <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/entityframework.svg" height="40" />
 </div>
 
-### Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-</div>
+### 🛠️ Top Technical Skills & Tools
+
+  <p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,docker,sqlserver,dapper,redis,html,css,js,postman,swagger,git&perline=7" style="height:113px;"/>
+  </p>
+
 
 ---
 
