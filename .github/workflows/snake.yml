@@ -2,7 +2,7 @@ name: Generate snake animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *" # Runs every 12 hours
   workflow_dispatch:
   push:
     branches:
@@ -10,9 +10,11 @@ on:
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
+      pages: write
+      id-token: write
     timeout-minutes: 5
 
     steps:
@@ -27,7 +29,8 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
             dist/snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
