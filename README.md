@@ -23,23 +23,6 @@ I enjoy turning real-world problems into **working software solutions**, and I a
 
 ---
 
-## 🛠️ Tech Stack
-
-### Backend & Languages
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_aspnet/microsoft_aspnet-icon.svg" height="40" />
-</div>
-
-### Database & ORM
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/entityframework.svg" height="40" />
-</div>
 
 ### 🛠️ Top Technical Skills & Tools
 
