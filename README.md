@@ -1,47 +1,85 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asaad</h1>
-<h3 align="center">Backend .NET Developer | API Builder</h3>
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=meshmuhammadasaadg&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/meshmuhammadasaadg)
-[![GitHub Followers](https://img.shields.io/github/followers/meshmuhammadasaadg?style=social)](https://github.com/meshmuhammadasaadg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meshmuhammadasaad10/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:meshmuhammadasaad@gmail.com)
-
-</div>
+<h3 align="center">Backend Developer | .NET Developer | Problem Solver</h3>
 
 ---
 
 ## 🚀 About Me
-I’m a Backend .NET Developer focused on building **clean, scalable, and efficient APIs**.  
-I enjoy turning real-world problems into **working software solutions**, and I always aim to improve my skills and deepen my understanding of backend system design.
-
-- 💻 **Currently working on:** Building RESTful APIs with .NET  
-- 📚 **Currently learning:** Clean Architecture & CQRS (Command Query Responsibility Segregation)  
-- 🤝 **Open to:** Backend developer roles & collaborations  
-- 📫 **Reach me at:** `meshmuhammadasaad@gmail.com`
+- 🎓 Computer Science Graduate
+- 💻 Passionate about Backend Development & Clean Architecture
+- 🔧 Strong knowledge of C#, .NET, SQL, OOP
+- 📚 Currently improving skills in ASP.NET Core, Web API, EF Core
+- 🎯 Goal: Become Professional Backend Engineer
 
 ---
 
+## 🛠️ Tech Stack
 
-### 🛠️ Top Technical Skills & Tools
+### 👨‍💻 Programming Languages
+- C#
+- Python
+- C++
+- SQL
 
-  <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,docker,sqlserver,dapper,redis,html,css,js,postman,swagger,git&perline=7" style="height:113px;"/>
-  </p>
+### ⚙️ Backend Development
+- ASP.NET Core
+- Web API
+- Entity Framework Core
+- LINQ
 
+### 🗄️ Database
+- SQL Server
+- MySQL
+
+### 🧠 Concepts
+- OOP
+- SOLID Principles
+- Design Patterns
+- Clean Architecture
+- Repository Pattern
+- REST APIs
+
+### 🧰 Tools
+- Git & GitHub
+- Visual Studio
+- VS Code
+- Postman
+- Swagger
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meshmuhammadasaadg&show_icons=true&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=meshmuhammadasaadg&show_icons=true&theme=dark&hide_border=true" height="150"/>
-<img src="https://streak-stats.demolab.com?user=meshmuhammadasaadg&theme=dark&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=meshmuhammadasaadg&layout=compact&theme=dark&hide_border=true" height="150"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meshmuhammadasaadg&theme=tokyonight" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshmuhammadasaadg&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Featured Projects
+- 📚 EBook API (Clean Architecture)
+- 🚗 Car Rental API
+- 📖 BookStore MVC
+- 🔐 Authentication & Identity
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/meshmuhammadasaadg
+- LinkedIn: (add link here)
+- Email: (add email here)
+
+---
+
+⭐ From [MuhammadAsaad](https://github.com/meshmuhammadasaadg)
 
 ---
 
