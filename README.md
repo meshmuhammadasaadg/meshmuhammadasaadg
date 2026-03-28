@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Asaad</h1>
 
-<p align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=yellow&center=true&vCenter=true&lines=Backend+Developer+|.Net;.NET+Developer;Clean+Architecture;REST+API+Builder" />
-</p>
+</h1>
 
 <h3 align="center">💻 Backend Developer | ASP.NET Core Api | .NET</h3>
 
@@ -49,23 +49,22 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=meshmuhammadasaadg&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=meshmuhammadasaadg&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshmuhammadasaadg&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
