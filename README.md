@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asaad</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=512BD4&center=true&vCenter=true&lines=Backend+Developer+|.Net;.NET+Developer;Clean+Architecture;REST+API+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=yellow&center=true&vCenter=true&lines=Backend+Developer+|.Net;.NET+Developer;Clean+Architecture;REST+API+Builder" />
 </p>
 
 <h3 align="center">💻 Backend Developer | ASP.NET Core Api | .NET</h3>
@@ -19,25 +19,6 @@
 🎯 Goal: Become Professional Backend Engineer  
 
 ---
-
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
-</p>
-
-### Backend
-<p>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge"/>
-</p>
-
-
 
 # 💻 Technologies and Tools:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -94,14 +75,6 @@
 
 ---
 
-## 📌 Projects
-- 📚 EBook API (Clean Architecture)
-- 🚗 Car Rental API
-- 🔐 Identity Authentication
-- 📖 BookStore MVC
-
----
-
 ## 📫 Connect With Me
 
 <p>
@@ -109,7 +82,3 @@
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 </p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C2D91,100:512BD4&height=120&section=footer"/>
