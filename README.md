@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asaad</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=yellow&size=35&center=true&vCenter=true&lines=Backend+Developer+|.Net;.NET+Developer;Clean+Architecture;REST+API+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=yellow&size=30&center=true&vCenter=true&lines=Backend+Developer+|.Net;.NET+Developer;Clean+Architecture;REST+API+Builder" />
 </p>
 
 <h3 align="center">💻 Backend Developer | ASP.NET Core Api | .NET</h3>
@@ -65,13 +65,6 @@
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshmuhammadasaadg&layout=compact&theme=tokyonight" />
 </p> -->
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yehia-Nour&theme=vision-friendly-dark&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yehia-Nour&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 
 ## 📫 Connect With Me
@@ -83,18 +76,9 @@
 </p>
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
---
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meshmuhammadasaadg/meshmuhammadasaadg/output/github-contribution-grid-snake-dark.svg" />
+</p>
