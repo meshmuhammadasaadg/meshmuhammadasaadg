@@ -77,7 +77,7 @@
 ---
 
 <div align="center">
-<img src="https://github.com/Amr-shawky/Amr-shawky/blob/main/assets/github-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
+<img src="https://github.com/meshmuhammadasaadg/meshmuhammadasaadg/blob/main/assets/github-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
 </div>
 
 ---
