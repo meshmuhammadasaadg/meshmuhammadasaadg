@@ -62,7 +62,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=meshmuhammadasaadg&show_icons=true&theme=tokyonight" />
 </p>
  
- ## Snak
+ ## 🐍 Snak
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/meshmuhammadasaadg/meshmuhammadasaadg/output/github-snake-dark.svg" width="100%" />
