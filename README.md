@@ -73,3 +73,11 @@
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 </p>
+
+---
+
+<div align="center">
+<img src="https://github.com/Amr-shawky/Amr-shawky/blob/main/assets/github-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
+</div>
+
+---
