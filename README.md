@@ -58,7 +58,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meshmuhammadasaadg&theme=tokyonight&cache_seconds=86400" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meshmuhammadasaadg&show_icons=true&theme=tokyonight" />
+</p>
+
 ---
+
+<!-- <div align="center">
+  <img src="https://raw.githubusercontent.com/meshmuhammadasaadg/meshmuhammadasaadg/main/assets/github-snake-dark.svg" width="100%" />
+</div> -->
+---
+
 
 ## 📫 Connect With Me
 
@@ -73,8 +83,3 @@
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 </p>
------
-<div align="center">
-  <img src="https://raw.githubusercontent.com/meshmuhammadasaadg/meshmuhammadasaadg/main/assets/github-snake-dark.svg" width="100%" />
-</div>
----
