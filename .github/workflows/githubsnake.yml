@@ -21,7 +21,7 @@ jobs:
       - name: Generate GitHub Snake
         uses: Platane/snk@v3.2.0
         with:
-          github_user_name: Amr-shawky
+          github_user_name: meshmuhammadasaadg
           outputs: |
             assets/github-snake.svg
             assets/github-snake-dark.svg?palette=github-dark
@@ -29,8 +29,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config user.name "Amr Mohamed Shawky"
-          git config user.email "amrshawky936@gmail.com"
+          git config user.name "Muhammad Asaad"
+          git config user.email "meshmuhammadasaad@gmail.com"
 
       - name: Commit and push files
         env:
