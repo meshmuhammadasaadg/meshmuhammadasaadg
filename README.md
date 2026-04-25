@@ -14,7 +14,7 @@
 🎓 Computer Science Graduate  
 💻 Passionate about Backend Development  
 🏗️ Interested in Clean Architecture & Design Patterns  
-🔧 Strong knowledge of C#, .NET, SQL, OOP, EF Core
+🔧 Strong knowledge of C#, .NET, SQL, OOP, EF Core    
 📚 Currently learning advanced ASP.NET Core & Web API  
 🎯 Goal: Become Professional Backend Engineer  
 
