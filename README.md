@@ -14,7 +14,7 @@
 🎓 Computer Science Graduate  
 💻 Passionate about Backend Development  
 🏗️ Interested in Clean Architecture & Design Patterns  
-🔧 Strong knowledge of C#, .NET, SQL, OOP  
+🔧 Strong knowledge of C#, .NET, SQL, OOP, EF Core
 📚 Currently learning advanced ASP.NET Core & Web API  
 🎯 Goal: Become Professional Backend Engineer  
 
@@ -78,7 +78,7 @@
 </a>
 <a href="https://www.facebook.com/muhammad.asaad.852373">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
+</a> 
 <a href="https://wa.me/201098092766">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
